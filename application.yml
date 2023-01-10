@@ -1,2 +1,6 @@
 coffee:
   special: King Cake Blend
+
+spring:
+  profiles:
+    active: dev
