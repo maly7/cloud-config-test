@@ -1,0 +1,8 @@
+single:
+  property: hello
+  
+ list:
+   properties:
+   - one
+   - two
+   - three
