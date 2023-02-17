@@ -1,8 +1,11 @@
-single:
-  property: hello
-  
- list:
-   properties:
-   - one
-   - two
-   - three
+server:
+  port: 8090
+logging:
+  level:
+    org.springframework.cloud.config.server.environment: warn
+
+spring:
+  config:
+    import:
+      - optional:configtree:/etc/config/application.yml
+      - optional:classpath:other.properties
