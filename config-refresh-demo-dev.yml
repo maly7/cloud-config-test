@@ -8,8 +8,3 @@ management:
     health:
       show-details: always
 
-coffee:
-  special: Colombia Aponte Village
-
-menu:
-  special: Seafood Lasagna
