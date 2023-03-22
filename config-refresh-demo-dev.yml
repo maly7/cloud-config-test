@@ -7,9 +7,3 @@ management:
   endpoint:
     health:
       show-details: always
-
-coffee:
-  special: Tropical Weather Blend
-  
-menu:
-  special: Seafood Lasagna
