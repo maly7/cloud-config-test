@@ -2,3 +2,9 @@ management:
   endpoint:
     health:
       show-details: always
+
+coffee:
+  special: Colombia Bourbon
+
+menu:
+  special: Seafood Gumbo
