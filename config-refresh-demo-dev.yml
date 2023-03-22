@@ -8,3 +8,8 @@ management:
     health:
       show-details: always
 
+coffee:
+  special: Colombia Gesha Natural
+
+menu:
+  special: Seafood Ravioli
